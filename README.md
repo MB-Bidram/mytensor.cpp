@@ -1,5 +1,4 @@
 # MyTensor.cpp
----
 A basic CPU based tensor engine written in C++, built for educational purposes 
 
 ## Note
